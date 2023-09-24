@@ -17,12 +17,12 @@ root.render(
 class Hello extends React.Component{
 
   state = {
-    name: " James"
+    name: " Pals"
   }
   render(){
-    return <h1>Hello
+    return <h3>Hello
       {this.state.name}, learning State in React.
-    </h1>;
+    </h3>;
   }
 }
 

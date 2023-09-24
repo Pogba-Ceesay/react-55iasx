@@ -12,3 +12,9 @@ body{
   font-size: 18px;
   background-color: transparent;
 }
+h1{
+  text-shadow: 2px 2px 4px white;
+}
+h3{
+  font-size: 25px;
+}
